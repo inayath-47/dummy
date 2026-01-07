@@ -1,0 +1,29 @@
+#box
+{
+    font-size: 50px;
+    font-family: fantasy;
+    background-color: rgb(241, 230, 230);
+}
+.heading{
+    
+    color: olivedrab;   
+}
+button{
+    background-color: black;
+    color: rgb(152, 243, 243);
+}
+
+*{
+    background-color:rgb(93, 228, 129);
+}
+
+*{
+ font-family: monospace; 
+}
+#square{
+
+    height: 500px;
+    width: 500px;
+    background-color: rgba(86, 224, 86,10);
+    border-radius: 50%;
+}
